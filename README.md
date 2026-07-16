@@ -30,6 +30,16 @@ I enjoy building practical, user-focused applications and am especially interest
 - 🤖 Exploring generative AI, machine learning, and OpenAI APIs
 - 🛠️ Enjoy building desktop, web, mobile, and collaborative applications
 
+## 📫 Let's Connect
+
+I’m always open to connecting about software engineering, AI, machine learning, and collaborative projects.
+
+<p align="left">
+  <a href="mailto:prithvi.ghale@snhu.edu">
+    <img src="https://img.shields.io/badge/Email-prithvi.ghale%40snhu.edu-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Prithvi Ghale">
+  </a>
+</p>
+
 ---
 
 ## 🚀 Current Focus
