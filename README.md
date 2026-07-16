@@ -32,7 +32,7 @@ I enjoy building practical, user-focused applications and am especially interest
 
 ## 📫 Let's Connect
 
-I’m always open to connecting about software engineering, AI, machine learning, and collaborative projects.
+Feel free to reach out to me at:
 
 <p align="left">
   <a href="mailto:prithvi.ghale@snhu.edu">
