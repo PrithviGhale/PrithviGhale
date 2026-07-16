@@ -66,50 +66,13 @@ I enjoy building practical, user-focused applications and am especially interest
 ## 🧩 Frameworks and Platforms
 
 <p align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
-    width="48"
-    height="48"
-    title="ASP.NET and .NET"
-    alt=".NET"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
-    width="48"
-    height="48"
-    title="Firebase"
-    alt="Firebase"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    src="https://cdn.simpleicons.org/supabase/3FCF8E"
-    width="48"
-    height="48"
-    title="Supabase"
-    alt="Supabase"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
-    width="48"
-    height="48"
-    title="Unity"
-    alt="Unity"
-  />
-  &nbsp;&nbsp;
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
-    width="48"
-    height="48"
-    title="Android Studio"
-    alt="Android Studio"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="48" height="48" title=".NET / ASP.NET" alt=".NET">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" title="Firebase" alt="Firebase">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="48" height="48" title="Supabase" alt="Supabase">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="48" height="48" title="Unity" alt="Unity">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="48" height="48" title="Android Studio" alt="Android Studio">
 </p>
+
 
 ---
 
