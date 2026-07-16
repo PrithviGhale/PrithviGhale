@@ -17,30 +17,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hello
 
-Hello! I’m **Prithvi Ghale**, a Computer Science student at **Southern New Hampshire University** with an expected graduation date of **May 2027**.
+My name is **Prithvi Ghale**, and I am a Computer Science student at **Southern New Hampshire University**, graduating in **May 2027**.
 
-I am passionate about designing and developing useful software that combines strong engineering principles with thoughtful user experiences. My current interests are focused on **software engineering, generative AI, and machine learning**.
+I enjoy building practical, user-focused applications and am especially interested in **software engineering, generative AI, and machine learning**.
 
-I am currently exploring a concentration that best aligns with my long-term interests in artificial intelligence and software development. I am also learning how to integrate **OpenAI APIs** into practical applications and intelligent workflows.
+## About Me
 
-- 🎓 Pursuing a **Bachelor of Science in Computer Science**
-- 📅 Expected graduation: **May 2027**
-- 💻 Interested in software and full-stack development
-- 🤖 Exploring generative AI and machine learning
-- 🧠 Learning to build applications with OpenAI APIs
-- 🎯 Career interests: Software Engineer, AI Engineer, Machine Learning Engineer and Full-Stack Developer
+- 🎓 Pursuing a Bachelor of Science in Computer Science at SNHU
+- 💻 Interested in software engineering and full-stack development
+- 🤖 Exploring generative AI, machine learning, and OpenAI APIs
+- 🛠️ Enjoy building desktop, web, mobile, and collaborative applications
 
 ---
 
 ## 🚀 Current Focus
 
-- Strengthening my software engineering and problem-solving skills
-- Building maintainable and user-focused applications
-- Exploring generative AI and machine-learning concepts
-- Learning to integrate AI capabilities into real-world software
-- Improving my knowledge of full-stack application development
+- Building clean and maintainable software applications
+- Improving my full-stack development skills
+- Learning how to integrate OpenAI APIs into applications
+- Strengthening my problem-solving and software engineering fundamentals
 
 ---
 
@@ -69,13 +66,49 @@ I am currently exploring a concentration that best aligns with my long-term inte
 ## 🧩 Frameworks and Platforms
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="48" height="48" title="ASP.NET and .NET" alt=".NET"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
+    width="48"
+    height="48"
+    title="ASP.NET and .NET"
+    alt=".NET"
+  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" title="Firebase" alt="Firebase"/>
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+    width="48"
+    height="48"
+    title="Firebase"
+    alt="Firebase"
+  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="48" height="48" title="Unity" alt="Unity"/>
+
+  <img
+    src="https://cdn.simpleicons.org/supabase/3FCF8E"
+    width="48"
+    height="48"
+    title="Supabase"
+    alt="Supabase"
+  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="48" height="48" title="Android Studio" alt="Android Studio"/>
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
+    width="48"
+    height="48"
+    title="Unity"
+    alt="Unity"
+  />
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+    width="48"
+    height="48"
+    title="Android Studio"
+    alt="Android Studio"
+  />
 </p>
 
 ---
@@ -90,22 +123,6 @@ I am currently exploring a concentration that best aligns with my long-term inte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" title="Visual Studio Code" alt="Visual Studio Code"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="48" height="48" title="Visual Studio 2022" alt="Visual Studio 2022"/>
-</p>
-
----
-
-## 🤖 AI and Machine Learning Interests
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" title="OpenAI APIs" alt="OpenAI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/robotframework/00E5FF" width="48" height="48" title="Artificial Intelligence" alt="Artificial Intelligence"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-Exploring-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-Learning-020617?style=for-the-badge&logo=probot&logoColor=38BDF8" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/OpenAI_APIs-Currently_Learning-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="OpenAI APIs"/>
 </p>
 
 ---
