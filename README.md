@@ -105,7 +105,7 @@ Feel free to reach out to me at:
 | Project | Role | Overview |
 |---|---|---|
 | [**Heist Ledger**](https://github.com/PrithviGhale/Heist-Ledger) | Creator and Developer | A Windows desktop companion that tracks GTA Online earnings using local OCR, C#, .NET and WPF. |
-| **StudyBuddy AI** | Developer | An AI-focused study application designed to improve and support student learning workflows. |
+| [**Kairo**](https://github.com/PrithviGhale/kairo) | Creator and Developer | A privacy-focused personal planning and AI assistant built with React Native, Expo, TypeScript, SQLite, Zustand and Cloudflare Workers AI. Kairo helps users manage calendars, tasks, savings goals, daily check-ins and personalized planning through natural-language conversations. |
 | [**PrithsCookBookApp**](https://github.com/PrithviGhale/PrithsCookBookApp) | Developer | A recipe application developed with ASP.NET, C#, JavaScript and Firebase. |
 | [**Split It Up**](https://github.com/3lenavan/Split-It-Up) | Developer Contributor | A collaborative software-development project built as part of a development team. |
 | [**YesChef**](https://github.com/Austin-bryan/YesChef) | Developer Contributor | An Android recipe-management application developed collaboratively using Java and Android Studio. |
