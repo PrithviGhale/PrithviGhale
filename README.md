@@ -19,9 +19,9 @@
 
 ## 👋 Hello
 
-My name is **Prithvi Ghale**, and I am a Computer Science student at **Southern New Hampshire University**, graduating in **May 2027**.
+My name is **Prithvi Ghale**, and I am a Computer Science student at **Southern New Hampshire University**.
 
-I enjoy building practical, user-focused applications and am especially interested in **software engineering, generative AI, and machine learning**.
+I enjoy to take something I imagine and turn it into a real product that people can use.
 
 ## About Me
 
@@ -39,15 +39,6 @@ Feel free to reach out to me at:
     <img src="https://img.shields.io/badge/Email-prithvi.ghale%40snhu.edu-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Prithvi Ghale">
   </a>
 </p>
-
----
-
-## 🚀 Current Focus
-
-- Building clean and maintainable software applications
-- Improving my full-stack development skills
-- Learning how to integrate OpenAI APIs into applications
-- Strengthening my problem-solving and software engineering fundamentals
 
 ---
 
