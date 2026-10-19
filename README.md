@@ -100,7 +100,7 @@ Feel free to reach out to me at:
 | [**PrithsCookBookApp**](https://github.com/PrithviGhale/PrithsCookBookApp) | Developer | A recipe application developed with ASP.NET, C#, JavaScript and Firebase. |
 | [**Split It Up**](https://github.com/3lenavan/Split-It-Up) | Developer Contributor | A collaborative software-development project built as part of a development team. |
 | [**YesChef**](https://github.com/Austin-bryan/YesChef) | Developer Contributor | An Android recipe-management application developed collaboratively using Java and Android Studio. |
-| [**Platformer**](https://github.com/LaMiller0000/Platformer) | Developer Contributor | A collaborative platformer game developed with Unity and C#. |
+| [**ROAM**](https://github.com/PrithviGhale/Roam) | Creator and Developer | An AI-powered navigation app built with React Native, Expo, TypeScript, Mapbox and Gemini. ROAM combines intelligent route planning, voice assistance, smart stop recommendations and custom navigation experiences for drivers. |
 
 ---
 
