@@ -97,7 +97,7 @@ Feel free to reach out to me at:
 |---|---|---|
 | [**Heist Ledger**](https://github.com/PrithviGhale/Heist-Ledger) | Creator and Developer | A Windows desktop companion that tracks GTA Online earnings using local OCR, C#, .NET and WPF. |
 | [**Kairo**](https://github.com/PrithviGhale/kairo) | Creator and Developer | A privacy-focused personal planning and AI assistant built with React Native, Expo, TypeScript, SQLite, Zustand and Cloudflare Workers AI. Kairo helps users manage calendars, tasks, savings goals, daily check-ins and personalized planning through natural-language conversations. |
-| [**PrithsCookBookApp**](https://github.com/PrithviGhale/PrithsCookBookApp) | Developer | A recipe application developed with ASP.NET, C#, JavaScript and Firebase. |
+| [**Brightspace UI Redesign**](YOUR_GITHUB_LINK_HERE) | Creator and Developer | A browser extension that redesigns the Brightspace learning platform with modern rounded course cards, redesigned icons, hover interactions, smooth animations, and an improved custom user interface. |
 | [**Split It Up**](https://github.com/3lenavan/Split-It-Up) | Developer Contributor | A collaborative software-development project built as part of a development team. |
 | [**YesChef**](https://github.com/Austin-bryan/YesChef) | Developer Contributor | An Android recipe-management application developed collaboratively using Java and Android Studio. |
 | [**ROAM**](https://github.com/PrithviGhale/Roam) | Creator and Developer | An AI-powered navigation app built with React Native, Expo, TypeScript, Mapbox and Gemini. ROAM combines intelligent route planning, voice assistance, smart stop recommendations and custom navigation experiences for drivers. |
