@@ -99,9 +99,8 @@ Feel free to reach out to me at:
 | [**Kairo**](https://github.com/PrithviGhale/kairo) | Creator and Developer | A privacy-focused personal planning and AI assistant built with React Native, Expo, TypeScript, SQLite, Zustand and Cloudflare Workers AI. Kairo helps users manage calendars, tasks, savings goals, daily check-ins and personalized planning through natural-language conversations. |
 | [**Brightspace UI Redesign**](https://github.com/PrithviGhale/Brightspace-Theme.git) | Creator and Developer | A browser extension that redesigns the Brightspace learning platform with modern rounded course cards, redesigned icons, hover interactions, smooth animations, and an improved custom user interface. |
 | [**Split It Up**](https://github.com/3lenavan/Split-It-Up) | Developer Contributor | A collaborative software-development project built as part of a development team. |
-| [**YesChef**](https://github.com/Austin-bryan/YesChef) | Developer Contributor | An Android recipe-management application developed collaboratively using Java and Android Studio. |
+| [**REPLAYX**](https://github.com/PrithviGhale/REPLAYX) | Creator and Developer | A free, open-source Windows screen recorder and Instant Replay application built with Rust, Tauri, React and TypeScript. Features GPU-accelerated recording, separate microphone and system audio tracks, automatic game detection, customizable recording settings and a game-organized clips library. |
 | [**ROAM**](https://github.com/PrithviGhale/Roam) | Creator and Developer | An AI-powered navigation app built with React Native, Expo, TypeScript, Mapbox and Gemini. ROAM combines intelligent route planning, voice assistance, smart stop recommendations and custom navigation experiences for drivers. |
-
 ---
 
 ## 🌐 Spoken Languages
