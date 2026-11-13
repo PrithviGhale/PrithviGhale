@@ -1,109 +1,133 @@
-<!-- FUTURISTIC HEADER -->
+<h1 align="center"><img src="assets/profile-header.svg" width="960" alt="Prithvi Ghale"></h1>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:0EA5E9&height=200&section=header&text=Prithvi%20Ghale&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20and%20AI%20Engineer&descSize=17&descAlignY=56"
-    alt="Prithvi Ghale profile banner"
-  />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/focus-still.svg">
+    <img src="assets/focus.svg" width="374" alt="Computer Science Student | Aspiring Software &amp; AI Engineer. Software Engineering, Full-Stack Development, AI &amp; Machine Learning, and Building Real-World Applications.">
+  </picture>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/vending-machine-still.png">
+    <img src="assets/vending-machine.gif" width="300" alt="Pixel art of a person standing beside vending machines.">
+  </picture>
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Exploring+Generative+AI+and+Machine+Learning;Building+Practical+and+User-Focused+Applications"
-    alt="Animated professional headline"
-  />
-</p>
+## About me
 
----
+I’m Prithvi Ghale, pursuing a Bachelor of Science in Computer Science at Southern New Hampshire University. I enjoy turning an idea into something people can use, from the first prototype to the details that make an app feel intuitive.
 
-## 👋 Hello
+I’m interested in software engineering, full-stack development, generative AI, and machine learning. I like building for desktop, web, and mobile, with particular attention to the user experience.
 
-My name is **Prithvi Ghale**, and I am a Computer Science student at **Southern New Hampshire University**.
+## Featured projects
 
-I enjoy to take something I imagine and turn it into a real product that people can use.
+<table>
+  <tbody>
 
-## About Me
+  <tr>
+    <td align="center" valign="top"><img src="assets/project-heist.svg" width="52" height="52" alt=""></td>
+    <td>
+      <strong><a href="https://github.com/PrithviGhale/Heist-Ledger">Heist Ledger</a></strong><br>
+      <sub>Creator &amp; developer</sub><br>
+      Windows desktop companion for tracking GTA Online earnings with local OCR and manual payout logging.<br>
+      <sub>C# · .NET · WPF</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="assets/project-kairo.svg" width="52" height="52" alt=""></td>
+    <td>
+      <strong><a href="https://github.com/PrithviGhale/kairo">Kairo</a></strong><br>
+      <sub>Creator &amp; developer · Private repository</sub><br>
+      Privacy-focused planning and AI assistant for tasks, calendar events, and savings goals, with user confirmation before the assistant makes changes.<br>
+      <sub>React Native · Expo · TypeScript · SQLite · Zustand · Cloudflare Workers AI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="assets/project-brightspace.svg" width="52" height="52" alt=""></td>
+    <td>
+      <strong><a href="https://github.com/PrithviGhale/Brightspace-Theme">Brightspace UI Redesign</a></strong><br>
+      <sub>Creator &amp; developer</sub><br>
+      A Chrome and Opera extension that refreshes SNHU Brightspace with redesigned course interfaces, custom themes, and subtle motion.<br>
+      <sub>Browser extension · UI theming</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="assets/project-split.svg" width="52" height="52" alt=""></td>
+    <td>
+      <strong><a href="https://github.com/3lenavan/Split-It-Up">Split It Up</a></strong><br>
+      <sub>Team contributor</sub><br>
+      A group expense manager built collaboratively. I implemented authentication and sign-in.<br>
+      <sub>React Native · Expo · TypeScript · Supabase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="assets/project-replayx.svg" width="52" height="52" alt=""></td>
+    <td>
+      <strong><a href="https://github.com/PrithviGhale/REPLAYX">REPLAYX</a></strong><br>
+      <sub>Creator &amp; developer</sub><br>
+      Free, open-source Windows screen recorder with Instant Replay, hardware encoding, and a clip library organized by game.<br>
+      <sub>Rust · Tauri · React · TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="assets/project-roam.svg" width="52" height="52" alt=""></td>
+    <td>
+      <strong><a href="https://github.com/PrithviGhale/Roam">ROAM</a></strong><br>
+      <sub>Creator &amp; developer</sub><br>
+      AI-powered navigation app for planning drives, comparing detours, and finding stops with a voice-enabled assistant.<br>
+      <sub>React Native · Expo · TypeScript · Mapbox · Gemini</sub>
+    </td>
+  </tr>
+  </tbody>
+</table>
 
-- 🎓 Pursuing a Bachelor of Science in Computer Science at SNHU
-- 💻 Interested in software engineering and full-stack development
-- 🤖 Exploring generative AI, machine learning, and OpenAI APIs
-- 🛠️ Enjoy building desktop, web, mobile, and collaborative applications
+## Technology stack
 
-## 📫 Let's Connect
-
-Feel free to reach out to me at:
-
-<p align="left">
-  <a href="mailto:prithvi.ghale@snhu.edu">
-    <img src="https://img.shields.io/badge/Email-prithvi.ghale%40snhu.edu-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Prithvi Ghale">
-  </a>
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" title="C#" alt="C#"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" title="C++" alt="C++"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" title="Java" alt="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" title="JavaScript" alt="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" title="HTML5" alt="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" title="CSS3" alt="CSS3"/>
-</p>
+### Programming languages
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-Database%20Development-0F172A?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="SQL"/>
+  <img src="assets/tech/csharp.svg" width="26" height="26" title="C#" alt="C#">
+  <img src="assets/tech/cplusplus.svg" width="26" height="26" title="C++" alt="C++">
+  <img src="assets/tech/java.svg" width="26" height="26" title="Java" alt="Java">
+  <img src="assets/tech/javascript.svg" width="26" height="26" title="JavaScript" alt="JavaScript">
+  <img src="assets/tech/typescript.svg" width="26" height="26" title="TypeScript" alt="TypeScript">
+  <img src="assets/tech/python.svg" width="26" height="26" title="Python" alt="Python">
+  <img src="assets/tech/html5.svg" width="26" height="26" title="HTML" alt="HTML">
+  <img src="assets/tech/css3.svg" width="26" height="26" title="CSS" alt="CSS">
+  <img src="assets/tech/azuresqldatabase.svg" width="26" height="26" title="SQL" alt="SQL">
+  <br>
+  <sub>C# · C++ · Java · JavaScript · TypeScript · Python · HTML · CSS · SQL</sub>
 </p>
 
----
+### Frameworks and platforms
 
-## 🧩 Frameworks and Platforms
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="48" height="48" title=".NET / ASP.NET" alt=".NET">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" title="Firebase" alt="Firebase">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="48" height="48" title="Supabase" alt="Supabase">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="48" height="48" title="Unity" alt="Unity">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="48" height="48" title="Android Studio" alt="Android Studio">
+<p>
+  <img src="assets/tech/dotnetcore.svg" width="26" height="26" title=".NET / ASP.NET" alt=".NET / ASP.NET">
+  <img src="assets/tech/react.svg" width="26" height="26" title="React / React Native" alt="React / React Native">
+  <img src="assets/tech/nodejs.svg" width="26" height="26" title="Node.js" alt="Node.js">
+  <img src="assets/tech/firebase.svg" width="26" height="26" title="Firebase" alt="Firebase">
+  <img src="assets/tech/supabase.svg" width="26" height="26" title="Supabase" alt="Supabase">
+  <img src="assets/tech/unity.svg" width="26" height="26" title="Unity" alt="Unity">
+  <img src="assets/tech/androidstudio.svg" width="26" height="26" title="Android Studio" alt="Android Studio">
+  <br>
+  <sub>.NET / ASP.NET · React / React Native · Node.js · Firebase · Supabase · Unity · Android Studio</sub>
 </p>
 
+### Development tools
 
----
-
-## 🛠️ Development Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" title="Git" alt="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" title="GitHub" alt="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" title="Visual Studio Code" alt="Visual Studio Code"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="48" height="48" title="Visual Studio 2022" alt="Visual Studio 2022"/>
+<p>
+  <img src="assets/tech/git.svg" width="26" height="26" title="Git" alt="Git">
+  <img src="assets/tech/github.svg" width="26" height="26" title="GitHub" alt="GitHub">
+  <img src="assets/tech/vscode.svg" width="26" height="26" title="Visual Studio Code" alt="Visual Studio Code">
+  <img src="assets/tech/visualstudio.svg" width="26" height="26" title="Visual Studio 2022" alt="Visual Studio 2022">
+  <br>
+  <sub>Git · GitHub · Visual Studio Code · Visual Studio 2022</sub>
 </p>
 
----
+## Connect
 
-## 📂 Featured Projects
+<a href="mailto:prithvi.ghale@snhu.edu"><img src="assets/email.svg" width="263" height="42" alt="Email prithvi.ghale@snhu.edu"></a>
 
-| Project | Role | Overview |
-|---|---|---|
-| [**Heist Ledger**](https://github.com/PrithviGhale/Heist-Ledger) | Creator and Developer | A Windows desktop companion that tracks GTA Online earnings using local OCR, C#, .NET and WPF. |
-| [**Kairo**](https://github.com/PrithviGhale/kairo) | Creator and Developer | A privacy-focused personal planning and AI assistant built with React Native, Expo, TypeScript, SQLite, Zustand and Cloudflare Workers AI. Kairo helps users manage calendars, tasks, savings goals, daily check-ins and personalized planning through natural-language conversations. |
-| [**Brightspace UI Redesign**](https://github.com/PrithviGhale/Brightspace-Theme.git) | Creator and Developer | A browser extension that redesigns the Brightspace learning platform with modern rounded course cards, redesigned icons, hover interactions, smooth animations, and an improved custom user interface. |
-| [**Split It Up**](https://github.com/3lenavan/Split-It-Up) | Developer Contributor | A collaborative software-development project built as part of a development team. |
-| [**REPLAYX**](https://github.com/PrithviGhale/REPLAYX) | Creator and Developer | A free, open-source Windows screen recorder and Instant Replay application built with Rust, Tauri, React and TypeScript. Features GPU-accelerated recording, separate microphone and system audio tracks, automatic game detection, customizable recording settings and a game-organized clips library. |
-| [**ROAM**](https://github.com/PrithviGhale/Roam) | Creator and Developer | An AI-powered navigation app built with React Native, Expo, TypeScript, Mapbox and Gemini. ROAM combines intelligent route planning, voice assistance, smart stop recommendations and custom navigation experiences for drivers. |
----
+**Spoken languages** · Nepali · English · Hindi
 
-## 🌐 Spoken Languages
+<img src="assets/profile-footer.svg" width="960" alt="">
 
-```text
-Nepali  •  English  •  Hindi
+<!-- Technology icons from Devicon v2.17.0. See assets/tech/LICENSE. The GIF is resized from GIPHY animation bDS3ycLNK08UhgAiI3. -->

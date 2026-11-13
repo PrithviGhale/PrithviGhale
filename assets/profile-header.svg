@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="210" viewBox="0 0 960 210">
+<defs>
+  <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+    <stop stop-color="#080e19"/><stop offset=".62" stop-color="#10192b"/><stop offset="1" stop-color="#21172f"/>
+  </linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#7cb8eb" stroke-opacity=".1"/>
+  </pattern>
+  <linearGradient id="edge"><stop stop-color="#54e6ff"/><stop offset="1" stop-color="#ae86ff"/></linearGradient>
+  <clipPath id="panel"><path d="M1 19 19 1h922l18 18v172l-18 18H19L1 191Z"/></clipPath>
+</defs>
+<g clip-path="url(#panel)">
+  <path d="M0 0h960v210H0z" fill="url(#background)"/>
+  <path d="M550 0h410v210H550z" fill="url(#grid)"/>
+  <g fill="none" stroke="#55c5f7" stroke-opacity=".29">
+    <path d="M621 0v29l45 45h87l30 30h177M635 210v-32l39-39h79l20-20h187M711 1v38l17 17h126l29 29h77"/>
+    <path d="M598 209v-46l39-39h60m159 17h32l20 20h52"/>
+  </g>
+  <path d="M18 1h924M18 209h924" stroke="url(#edge)" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M34 31h46v4H34zM34 42h8v4h-8zM48 42h8v4h-8z" fill="#5fe8ff"/>
+  <path d="M880 43h10v10h-10zM900 43h10v10h-10zM880 63h10v10h-10zM920 63h10v10h-10zM900 83h10v10h-10z" fill="#ac87ff" opacity=".7"/>
+  <path d="M833 153h8v8h-8zM849 169h8v8h-8zM865 153h8v8h-8zM881 137h8v8h-8z" fill="#59e2ff" opacity=".8"/>
+  <text x="42" y="125" font-family="system-ui, Segoe UI, sans-serif" font-size="78" letter-spacing="-3" font-weight="750" fill="#f2f7ff">Prithvi Ghale</text>
+  <path d="M44 153h72v3H44z" fill="#5fe8ff"/>
+  <path d="M124 153h12v3h-12zM144 153h4v3h-4z" fill="#ac87ff"/>
+</g>
+<path d="M1 19 19 1h922l18 18v172l-18 18H19L1 191Z" fill="none" stroke="#49657e"/>
+</svg>
