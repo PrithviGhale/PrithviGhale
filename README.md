@@ -129,6 +129,10 @@ Git · GitHub · Visual Studio Code · Visual Studio 2022
 
 <img src="assets/spoken-languages.svg" width="16" height="16" alt=""> Nepali · English · Hindi
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrithviGhale&amp;label=Profile%20views&amp;color=087eaa&amp;style=flat-square" alt="Profile views">
+</p>
+
 <img src="assets/profile-footer.svg" width="960" alt="">
 
 <!-- Name lettering from Space Grotesk. See assets/Space-Grotesk-OFL.txt. Technology icons from Devicon v2.17.0. See assets/tech/LICENSE. The GIF is resized from GIPHY animation bDS3ycLNK08UhgAiI3. -->
