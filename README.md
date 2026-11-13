@@ -26,43 +26,37 @@ I’m interested in software engineering, full-stack development, generative AI,
 ### Programming languages
 
 <p>
-  <img src="assets/tech/csharp.svg" width="60" height="60" title="C#" alt="C#">
-  <img src="assets/tech/cplusplus.svg" width="60" height="60" title="C++" alt="C++">
-  <img src="assets/tech/java.svg" width="60" height="60" title="Java" alt="Java">
-  <img src="assets/tech/javascript.svg" width="60" height="60" title="JavaScript" alt="JavaScript">
-  <img src="assets/tech/typescript.svg" width="60" height="60" title="TypeScript" alt="TypeScript">
-  <img src="assets/tech/python.svg" width="60" height="60" title="Python" alt="Python">
-  <img src="assets/tech/html5.svg" width="60" height="60" title="HTML" alt="HTML">
-  <img src="assets/tech/css3.svg" width="60" height="60" title="CSS" alt="CSS">
+  <img src="assets/tech/csharp.svg" width="60" height="60" title="C#" alt="C#">&ensp;
+  <img src="assets/tech/cplusplus.svg" width="60" height="60" title="C++" alt="C++">&ensp;
+  <img src="assets/tech/java.svg" width="60" height="60" title="Java" alt="Java">&ensp;
+  <img src="assets/tech/javascript.svg" width="60" height="60" title="JavaScript" alt="JavaScript">&ensp;
+  <img src="assets/tech/typescript.svg" width="60" height="60" title="TypeScript" alt="TypeScript">&ensp;
+  <img src="assets/tech/python.svg" width="60" height="60" title="Python" alt="Python">&ensp;
+  <img src="assets/tech/html5.svg" width="60" height="60" title="HTML" alt="HTML">&ensp;
+  <img src="assets/tech/css3.svg" width="60" height="60" title="CSS" alt="CSS">&ensp;
   <img src="assets/tech/azuresqldatabase.svg" width="60" height="60" title="SQL" alt="SQL">
 </p>
-
-C# · C++ · Java · JavaScript · TypeScript · Python · HTML · CSS · SQL
 
 ### Frameworks and platforms
 
 <p>
-  <img src="assets/tech/dotnetcore.svg" width="60" height="60" title=".NET / ASP.NET" alt=".NET / ASP.NET">
-  <img src="assets/tech/react.svg" width="60" height="60" title="React / React Native" alt="React / React Native">
-  <img src="assets/tech/nodejs.svg" width="60" height="60" title="Node.js" alt="Node.js">
-  <img src="assets/tech/firebase.svg" width="60" height="60" title="Firebase" alt="Firebase">
-  <img src="assets/tech/supabase.svg" width="60" height="60" title="Supabase" alt="Supabase">
-  <img src="assets/tech/unity.svg" width="60" height="60" title="Unity" alt="Unity">
+  <img src="assets/tech/dotnetcore.svg" width="60" height="60" title=".NET / ASP.NET" alt=".NET / ASP.NET">&ensp;
+  <img src="assets/tech/react.svg" width="60" height="60" title="React / React Native" alt="React / React Native">&ensp;
+  <img src="assets/tech/nodejs.svg" width="60" height="60" title="Node.js" alt="Node.js">&ensp;
+  <img src="assets/tech/firebase.svg" width="60" height="60" title="Firebase" alt="Firebase">&ensp;
+  <img src="assets/tech/supabase.svg" width="60" height="60" title="Supabase" alt="Supabase">&ensp;
+  <img src="assets/tech/unity.svg" width="60" height="60" title="Unity" alt="Unity">&ensp;
   <img src="assets/tech/androidstudio.svg" width="60" height="60" title="Android Studio" alt="Android Studio">
 </p>
-
-.NET / ASP.NET · React / React Native · Node.js · Firebase · Supabase · Unity · Android Studio
 
 ### Development tools
 
 <p>
-  <img src="assets/tech/git.svg" width="60" height="60" title="Git" alt="Git">
-  <img src="assets/tech/github.svg" width="60" height="60" title="GitHub" alt="GitHub">
-  <img src="assets/tech/vscode.svg" width="60" height="60" title="Visual Studio Code" alt="Visual Studio Code">
+  <img src="assets/tech/git.svg" width="60" height="60" title="Git" alt="Git">&ensp;
+  <img src="assets/tech/github.svg" width="60" height="60" title="GitHub" alt="GitHub">&ensp;
+  <img src="assets/tech/vscode.svg" width="60" height="60" title="Visual Studio Code" alt="Visual Studio Code">&ensp;
   <img src="assets/tech/visualstudio.svg" width="60" height="60" title="Visual Studio 2022" alt="Visual Studio 2022">
 </p>
-
-Git · GitHub · Visual Studio Code · Visual Studio 2022
 
 ## 🚀 Featured projects
 
@@ -127,9 +121,9 @@ Git · GitHub · Visual Studio Code · Visual Studio 2022
 
 ## Spoken languages
 
-<img src="assets/spoken-languages.svg" width="16" height="16" alt=""> Nepali · English · Hindi
+<img src="assets/spoken-languages.svg" width="16" height="16" alt="">&ensp;Nepali&ensp;·&ensp;English&ensp;·&ensp;Hindi
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=PrithviGhale&amp;label=Profile%20views&amp;color=087eaa&amp;style=flat-square" alt="Profile views">
 </p>
 
