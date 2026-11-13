@@ -11,60 +11,60 @@
   </picture>
 </p>
 
-## About me
+## 👋 About me
 
 I’m Prithvi Ghale, pursuing a Bachelor of Science in Computer Science at Southern New Hampshire University. I enjoy turning an idea into something people can use, from the first prototype to the details that make an app feel intuitive.
 
 I’m interested in software engineering, full-stack development, generative AI, and machine learning. I like building for desktop, web, and mobile, with particular attention to the user experience.
 
-## Connect with me
+## 📫 Connect with me
 
 <a href="mailto:prithvi.ghale@snhu.edu"><img src="assets/email.svg" width="263" height="42" alt="Email prithvi.ghale@snhu.edu"></a>
 
-## Technology stack
+## 🛠️ Technology stack
 
 ### Programming languages
 
 <p>
-  <img src="assets/tech/csharp.svg" width="26" height="26" title="C#" alt="C#">
-  <img src="assets/tech/cplusplus.svg" width="26" height="26" title="C++" alt="C++">
-  <img src="assets/tech/java.svg" width="26" height="26" title="Java" alt="Java">
-  <img src="assets/tech/javascript.svg" width="26" height="26" title="JavaScript" alt="JavaScript">
-  <img src="assets/tech/typescript.svg" width="26" height="26" title="TypeScript" alt="TypeScript">
-  <img src="assets/tech/python.svg" width="26" height="26" title="Python" alt="Python">
-  <img src="assets/tech/html5.svg" width="26" height="26" title="HTML" alt="HTML">
-  <img src="assets/tech/css3.svg" width="26" height="26" title="CSS" alt="CSS">
-  <img src="assets/tech/azuresqldatabase.svg" width="26" height="26" title="SQL" alt="SQL">
-  <br>
-  C# · C++ · Java · JavaScript · TypeScript · Python · HTML · CSS · SQL
+  <img src="assets/tech/csharp.svg" width="60" height="60" title="C#" alt="C#">
+  <img src="assets/tech/cplusplus.svg" width="60" height="60" title="C++" alt="C++">
+  <img src="assets/tech/java.svg" width="60" height="60" title="Java" alt="Java">
+  <img src="assets/tech/javascript.svg" width="60" height="60" title="JavaScript" alt="JavaScript">
+  <img src="assets/tech/typescript.svg" width="60" height="60" title="TypeScript" alt="TypeScript">
+  <img src="assets/tech/python.svg" width="60" height="60" title="Python" alt="Python">
+  <img src="assets/tech/html5.svg" width="60" height="60" title="HTML" alt="HTML">
+  <img src="assets/tech/css3.svg" width="60" height="60" title="CSS" alt="CSS">
+  <img src="assets/tech/azuresqldatabase.svg" width="60" height="60" title="SQL" alt="SQL">
 </p>
+
+C# · C++ · Java · JavaScript · TypeScript · Python · HTML · CSS · SQL
 
 ### Frameworks and platforms
 
 <p>
-  <img src="assets/tech/dotnetcore.svg" width="26" height="26" title=".NET / ASP.NET" alt=".NET / ASP.NET">
-  <img src="assets/tech/react.svg" width="26" height="26" title="React / React Native" alt="React / React Native">
-  <img src="assets/tech/nodejs.svg" width="26" height="26" title="Node.js" alt="Node.js">
-  <img src="assets/tech/firebase.svg" width="26" height="26" title="Firebase" alt="Firebase">
-  <img src="assets/tech/supabase.svg" width="26" height="26" title="Supabase" alt="Supabase">
-  <img src="assets/tech/unity.svg" width="26" height="26" title="Unity" alt="Unity">
-  <img src="assets/tech/androidstudio.svg" width="26" height="26" title="Android Studio" alt="Android Studio">
-  <br>
-  .NET / ASP.NET · React / React Native · Node.js · Firebase · Supabase · Unity · Android Studio
+  <img src="assets/tech/dotnetcore.svg" width="60" height="60" title=".NET / ASP.NET" alt=".NET / ASP.NET">
+  <img src="assets/tech/react.svg" width="60" height="60" title="React / React Native" alt="React / React Native">
+  <img src="assets/tech/nodejs.svg" width="60" height="60" title="Node.js" alt="Node.js">
+  <img src="assets/tech/firebase.svg" width="60" height="60" title="Firebase" alt="Firebase">
+  <img src="assets/tech/supabase.svg" width="60" height="60" title="Supabase" alt="Supabase">
+  <img src="assets/tech/unity.svg" width="60" height="60" title="Unity" alt="Unity">
+  <img src="assets/tech/androidstudio.svg" width="60" height="60" title="Android Studio" alt="Android Studio">
 </p>
+
+.NET / ASP.NET · React / React Native · Node.js · Firebase · Supabase · Unity · Android Studio
 
 ### Development tools
 
 <p>
-  <img src="assets/tech/git.svg" width="26" height="26" title="Git" alt="Git">
-  <img src="assets/tech/github.svg" width="26" height="26" title="GitHub" alt="GitHub">
-  <img src="assets/tech/vscode.svg" width="26" height="26" title="Visual Studio Code" alt="Visual Studio Code">
-  <img src="assets/tech/visualstudio.svg" width="26" height="26" title="Visual Studio 2022" alt="Visual Studio 2022">
-  <br>
-  Git · GitHub · Visual Studio Code · Visual Studio 2022
+  <img src="assets/tech/git.svg" width="60" height="60" title="Git" alt="Git">
+  <img src="assets/tech/github.svg" width="60" height="60" title="GitHub" alt="GitHub">
+  <img src="assets/tech/vscode.svg" width="60" height="60" title="Visual Studio Code" alt="Visual Studio Code">
+  <img src="assets/tech/visualstudio.svg" width="60" height="60" title="Visual Studio 2022" alt="Visual Studio 2022">
 </p>
 
-## Featured projects
+Git · GitHub · Visual Studio Code · Visual Studio 2022
+
+## 🚀 Featured projects
 
 <table>
   <tbody>
