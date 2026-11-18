@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="24" viewBox="0 0 960 24">
+  <path d="M0 16h134l10-10h246l10 10h160l10-10h246l10 10h134" fill="none" stroke="#526b86" stroke-opacity=".72"/>
+  <path d="M462 12h7v7h-7zm15 0h7v7h-7zm15 0h7v7h-7z" fill="#a991fc"/>
+  <rect width="10" height="6" rx="1" fill="#75eaff" opacity="0">
+    <animateMotion path="M8 13h126l10-10h246l10 10h48" dur="4.8s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.84;1" dur="4.8s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="10" height="6" rx="1" fill="#ba99ff" opacity="0">
+    <animateMotion path="M942 13H826l-10-10H570l-10 10h-48" dur="4.8s" begin="0.35s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.84;1" dur="4.8s" begin="0.35s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="26" viewBox="0 0 320 26">
+  <rect x=".5" y=".5" width="319" height="25" rx="6" fill="#101b2a" stroke="#344e68"/>
+  <path d="M18 17h44l8-8h180l8 8h44" fill="none" stroke="#5d81a1"/>
+  <path d="M14 14h6v6h-6zm286 0h6v6h-6z" fill="#7bdfff"/>
+  <rect x="82" y="6" width="8" height="7" rx="1" fill="#71e3ff" opacity=".2">
+    <animate attributeName="opacity" values=".2;1;.2;.2" keyTimes="0;.13;.4;1" begin="0.00s" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="100" y="6" width="8" height="7" rx="1" fill="#71e3ff" opacity=".2">
+    <animate attributeName="opacity" values=".2;1;.2;.2" keyTimes="0;.13;.4;1" begin="0.17s" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="118" y="6" width="8" height="7" rx="1" fill="#71e3ff" opacity=".2">
+    <animate attributeName="opacity" values=".2;1;.2;.2" keyTimes="0;.13;.4;1" begin="0.34s" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="136" y="6" width="8" height="7" rx="1" fill="#71e3ff" opacity=".2">
+    <animate attributeName="opacity" values=".2;1;.2;.2" keyTimes="0;.13;.4;1" begin="0.51s" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="154" y="6" width="8" height="7" rx="1" fill="#71e3ff" opacity=".2">
+    <animate attributeName="opacity" values=".2;1;.2;.2" keyTimes="0;.13;.4;1" begin="0.68s" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="172" y="6" width="8" height="7" rx="1" fill="#b38dff" opacity=".2">
+    <animate attributeName="opacity" values=".2;1;.2;.2" keyTimes="0;.13;.4;1" begin="0.85s" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="190" y="6" width="8" height="7" rx="1" fill="#b38dff" opacity=".2">
+    <animate attributeName="opacity" values=".2;1;.2;.2" keyTimes="0;.13;.4;1" begin="1.02s" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="208" y="6" width="8" height="7" rx="1" fill="#b38dff" opacity=".2">
+    <animate attributeName="opacity" values=".2;1;.2;.2" keyTimes="0;.13;.4;1" begin="1.19s" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="226" y="6" width="8" height="7" rx="1" fill="#b38dff" opacity=".2">
+    <animate attributeName="opacity" values=".2;1;.2;.2" keyTimes="0;.13;.4;1" begin="1.36s" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>

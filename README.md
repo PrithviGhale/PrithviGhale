@@ -24,7 +24,10 @@ I’m interested in software engineering, full-stack development, generative AI,
 
 ## 📫 Connect with me
 
-<a href="mailto:prithvi.ghale@snhu.edu"><img src="assets/email.svg" width="263" height="42" alt="Email prithvi.ghale@snhu.edu"></a>
+<p><a href="mailto:prithvi.ghale@snhu.edu"><picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/email.svg">
+  <img src="assets/email-motion.svg" width="263" height="42" alt="Email prithvi.ghale@snhu.edu">
+</picture></a></p>
 
 <p align="center">
   <picture>
@@ -61,6 +64,11 @@ I’m interested in software engineering, full-stack development, generative AI,
   <img src="assets/tech/androidstudio.svg" width="60" height="60" title="Android Studio" alt="Android Studio">
 </p>
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-tech-signal.svg">
+  <img src="assets/profile-tech-signal-motion.svg" width="320" alt="">
+</picture>
+
 ### Development tools
 
 <p>
@@ -70,14 +78,12 @@ I’m interested in software engineering, full-stack development, generative AI,
   <img src="assets/tech/visualstudio.svg" width="60" height="60" title="Visual Studio 2022" alt="Visual Studio 2022">
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-divider.svg">
-    <img src="assets/profile-divider-motion.svg" width="960" alt="">
-  </picture>
-</p>
-
 ## 🚀 Featured projects
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-project-traces.svg">
+  <img src="assets/profile-project-traces-motion.svg" width="960" alt="">
+</picture>
 
 <table>
   <tbody>
@@ -137,6 +143,11 @@ I’m interested in software engineering, full-stack development, generative AI,
   </tr>
   </tbody>
 </table>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-closing-traces.svg">
+  <img src="assets/profile-closing-traces-motion.svg" width="960" alt="">
+</picture>
 
 ## Spoken languages
 
