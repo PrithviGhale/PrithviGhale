@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="28" viewBox="0 0 960 28">
+  <path d="M20 14h324l8-7h256l8 7h324M20 20h324l8 7h256l8-7h324" fill="none" stroke="#526b86" stroke-opacity=".65"/>
+  <path d="M8 11h6v6H8zm938 0h6v6h-6z" fill="#68dcf4"/>
+  <path d="M465 13h8v8h-8zm11 0h8v8h-8zm11 0h8v8h-8z" fill="#a991fc"/>
+  <rect width="8" height="8" rx="1" fill="#68e6ff" opacity="0">
+    <animateMotion path="M23 10h321l8-7h92" dur="5.6s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.16;.82;1" dur="5.6s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="8" height="8" rx="1" fill="#c0a1ff" opacity="0">
+    <animateMotion path="M931 16H613l-8 7h-91" dur="6.3s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.16;.82;1" dur="6.3s" begin="0.4s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="8" height="8" rx="1" fill="#68e6ff" opacity="0">
+    <animateMotion path="M554 3h53l8 7h299" dur="5.6s" begin="2.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.16;.82;1" dur="5.6s" begin="2.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

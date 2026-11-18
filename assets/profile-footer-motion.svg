@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="48" viewBox="0 0 960 48">
+<defs><linearGradient id="base"><stop stop-color="#0a1421"/><stop offset="1" stop-color="#21172f"/></linearGradient></defs>
+<path d="M1 1h958v32l-14 14H15L1 33z" fill="url(#base)" stroke="#456078"/>
+<path d="M25 22h74v2H25zm83 0h7v2h-7zm16 0h3v2h-3z" fill="#5be8ff"/>
+<path d="M928 18h8v8h-8zm-14 0h8v8h-8zm-14 0h8v8h-8z" fill="#a88bff"/>
+  <path d="M153 24h281l9-9h86l9 9h325" fill="none" stroke="#6788ad" stroke-opacity=".45"/>
+  <rect width="9" height="9" rx="1" fill="#75eaff" opacity="0">
+    <animateMotion path="M153 19h278l9-9h86l9 9h325" dur="7.4s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.16;.82;1" dur="7.4s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="6" height="6" rx="1" fill="#ba99ff" opacity="0">
+    <animateMotion path="M857 21H536l-9-9h-82l-9 9H167" dur="8.3s" begin="1.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.16;.82;1" dur="8.3s" begin="1.7s" repeatCount="indefinite"/>
+  </rect>
+</svg>

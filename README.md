@@ -1,4 +1,9 @@
-<h1 align="center"><img src="assets/profile-header.svg" width="960" alt="Prithvi Ghale"></h1>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-header.svg">
+    <img src="assets/profile-header-motion.svg" width="960" alt="Prithvi Ghale">
+  </picture>
+</h1>
 
 <p align="center">
   <picture>
@@ -20,6 +25,13 @@ I’m interested in software engineering, full-stack development, generative AI,
 ## 📫 Connect with me
 
 <a href="mailto:prithvi.ghale@snhu.edu"><img src="assets/email.svg" width="263" height="42" alt="Email prithvi.ghale@snhu.edu"></a>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-divider.svg">
+    <img src="assets/profile-divider-motion.svg" width="960" alt="">
+  </picture>
+</p>
 
 ## 🛠️ Technology stack
 
@@ -56,6 +68,13 @@ I’m interested in software engineering, full-stack development, generative AI,
   <img src="assets/tech/github.svg" width="60" height="60" title="GitHub" alt="GitHub">&ensp;
   <img src="assets/tech/vscode.svg" width="60" height="60" title="Visual Studio Code" alt="Visual Studio Code">&ensp;
   <img src="assets/tech/visualstudio.svg" width="60" height="60" title="Visual Studio 2022" alt="Visual Studio 2022">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-divider.svg">
+    <img src="assets/profile-divider-motion.svg" width="960" alt="">
+  </picture>
 </p>
 
 ## 🚀 Featured projects
@@ -127,6 +146,11 @@ I’m interested in software engineering, full-stack development, generative AI,
   <img src="https://komarev.com/ghpvc/?username=PrithviGhale&amp;label=Profile%20views&amp;color=087eaa&amp;style=flat-square" alt="Profile views">
 </p>
 
-<img src="assets/profile-footer.svg" width="960" alt="">
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-footer.svg">
+    <img src="assets/profile-footer-motion.svg" width="960" alt="">
+  </picture>
+</p>
 
 <!-- Name lettering from Space Grotesk. See assets/Space-Grotesk-OFL.txt. Technology icons from Devicon v2.17.0. See assets/tech/LICENSE. The GIF is resized from GIPHY animation bDS3ycLNK08UhgAiI3. -->
